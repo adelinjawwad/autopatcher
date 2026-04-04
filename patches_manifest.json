@@ -1,186 +1,186 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "patches_dir": "patches",
   "files": [
     {
       "path": "patches/characters_data.eix",
       "dest": "characters_data.eix",
-      "sha256": "e31b6a2f28f8dd3bce3b9fede000e23c5716baa1d0410b206eca9461850f2ec1",
-      "size": 131
+      "sha256": "7832f184881f2274debecbd43b2360aa7b141740640fe6eb2a3256d9fe18d8c1",
+      "size": 188084
     },
     {
       "path": "patches/characters_data.epk",
       "dest": "characters_data.epk",
-      "sha256": "3270f1c45fd436dc8ba52e54971135e1032d8542bd116d425f495d9a69ce7bcb",
-      "size": 134
+      "sha256": "89e870f4374cf0b6914bce1b4ce09371f2967ec8f54794093a3f366f6956ccf7",
+      "size": 138628352
     },
     {
       "path": "patches/dev_work.eix",
       "dest": "dev_work.eix",
-      "sha256": "f711c5df886481691cb9dd3e9a888474d48863e1a98fd763d9ee57ef27ce2cbd",
-      "size": 129
+      "sha256": "4cb9cdbe00fe1c7a853c2977ec94fddd583cc06b75084d9587f5bd808a623cd0",
+      "size": 4228
     },
     {
       "path": "patches/dev_work.epk",
       "dest": "dev_work.epk",
-      "sha256": "cc77f1f2fe4a395434830f758f74648294a399d694da97e184f9f4891bb9fced",
-      "size": 132
+      "sha256": "962c519ecfcd9d7d01556b273cc376237064c7534a9c45dae6e0a2d1df83b7b5",
+      "size": 4941568
     },
     {
       "path": "patches/game_data.eix",
       "dest": "game_data.eix",
-      "sha256": "6a632d052ab421011b5df4d0472c492232eb850ab7e299e723b253bb3189ef67",
-      "size": 131
+      "sha256": "81098b796c37f6da397d6ce61d24b8d744c796679cbadb05af2d55f46be59314",
+      "size": 113468
     },
     {
       "path": "patches/game_data.epk",
       "dest": "game_data.epk",
-      "sha256": "f015f07830842914c9b30e5003117e7a885d85f6eb958b244a8d8d21ead363f2",
-      "size": 133
+      "sha256": "d8898baadd84378b5a31948ef21c643bbafe03d12b39066fc320e1d88981386c",
+      "size": 46246400
     },
     {
       "path": "patches/items.eix",
       "dest": "items.eix",
-      "sha256": "002e7738f8350d3cbb9b17bc9d2d58d816890b32f2f6990c2bda4b338e3095ad",
-      "size": 130
+      "sha256": "1dc4fa7759127b134f85b502f7174fb0d28454515afa366749c86201e98beef8",
+      "size": 35276
     },
     {
       "path": "patches/items.epk",
       "dest": "items.epk",
-      "sha256": "96006566b90a90a0f2959677cf168868d4a63ae96b9301bd77184341cba6dcaa",
-      "size": 133
+      "sha256": "a875e06a40fa50efe9b5093de07005a1e0c0a963594b15256e64f1a557e6895f",
+      "size": 10764288
     },
     {
       "path": "patches/ley_updates.eix",
       "dest": "ley_updates.eix",
-      "sha256": "f51880a37c72c2fbc16982038f3a7f0db2ef3d48071110f844f4cfbeb2ce4f40",
-      "size": 130
+      "sha256": "dfa914479f9f0e97b0fe35457b493aaf1fdb78ceae8a67785decdaffb9a3e967",
+      "size": 99092
     },
     {
       "path": "patches/ley_updates.epk",
       "dest": "ley_updates.epk",
-      "sha256": "75a63f1675d195de55c7ecf132e969604deb48be6f5252c8c1776cd0ba63d6ab",
-      "size": 134
+      "sha256": "28be199ef93d0c7390d32ecae088b5fc43eca16502c920228fbd94cf84480baf",
+      "size": 100687872
     },
     {
       "path": "patches/locale.eix",
       "dest": "locale.eix",
-      "sha256": "b9fdcfeae28fdb135977683a9ac2eb998d0c7559181ba29c34e3e436fb61329c",
-      "size": 130
+      "sha256": "8078be55693050cce3fb8968d45900ab3434370b54e09a4ae144d7edbef28538",
+      "size": 14244
     },
     {
       "path": "patches/locale.epk",
       "dest": "locale.epk",
-      "sha256": "81d339810d464f82169af782d657f263451918c89becbae9a59088a02cd328ee",
-      "size": 133
+      "sha256": "1ed944fd34993177f6ec7cfc9e2a0f77dbdda86bb744b9008adb0afe902e65cc",
+      "size": 19304704
     },
     {
       "path": "patches/locale_data.eix",
       "dest": "locale_data.eix",
-      "sha256": "9f84f1beef50030a0b8a8a8e7178088bfcd91804be12e4837e01340b7797dc05",
-      "size": 130
+      "sha256": "edd4aae8e7e2b9025059d3ab731e2be348ee779cc0b092a18ad3d861dbfef5cb",
+      "size": 60356
     },
     {
       "path": "patches/locale_data.epk",
       "dest": "locale_data.epk",
-      "sha256": "997fd1cff2f6c45c782a55d2f7d65bf8c2ec03617c84e97eba763f34dfaab5b3",
-      "size": 133
+      "sha256": "c6dc5e8de1360a3bd3fbf8d0efc956ff50b33b2c992979ae4b31ab2d84658e43",
+      "size": 35473152
     },
     {
       "path": "patches/maps.eix",
       "dest": "maps.eix",
-      "sha256": "80397d04e1dd5ad687c379acbfe4b37c7b57e36c0382f7c1d4e775ff9558681d",
-      "size": 131
+      "sha256": "f5755edbaa8a6283a28ccd2193405d776f73b2e71549d9c1e6c049f572d9e8a8",
+      "size": 211164
     },
     {
       "path": "patches/maps.epk",
       "dest": "maps.epk",
-      "sha256": "bdf3026b14fedf00b1344337cd40e730f9feb09e70cbda86b23cbe448ce36a33",
-      "size": 133
+      "sha256": "0ec9bbd34146b6bac5e4df70371eba4540237aec06394e0582ad01d5a60ff348",
+      "size": 62964480
     },
     {
       "path": "patches/maps_data.eix",
       "dest": "maps_data.eix",
-      "sha256": "94df3b05384513e4fd6f91b5102ebecb65a4abcf630f199f0ed01f6e67bd9c6d",
-      "size": 131
+      "sha256": "ad974ee4ef9abcbea8b28b4759dcd65e4e0ee0ccb2a3f58a5742d65b15aef69a",
+      "size": 265820
     },
     {
       "path": "patches/maps_data.epk",
       "dest": "maps_data.epk",
-      "sha256": "0c82f6eda4072265252e302d74779e8f6d76e97d5225108eaadd49e0b66e94b0",
-      "size": 134
+      "sha256": "eb09df981f51f7c6115f2612ea808c9372675ff5e34d827e8537d4ad9cd83ea0",
+      "size": 525256704
     },
     {
       "path": "patches/mobs.eix",
       "dest": "mobs.eix",
-      "sha256": "ef840b9a642573ac1bcfe6a21be14df9d9e0c36e0570d6507525959f4d3de4ff",
-      "size": 130
+      "sha256": "98809fb217f18d6a34b5466a59dfdee27cd00cfce2eefcb0d4dfc305a0e7f383",
+      "size": 48620
     },
     {
       "path": "patches/mobs.epk",
       "dest": "mobs.epk",
-      "sha256": "347427f7063e8edeb8ae1210143257976de275b8cd6fbf91352291b7a694ad69",
-      "size": 133
+      "sha256": "75c0c5ca5da26e39f98d181cd110d13e076a93d924394d3aab24cf231caddfd9",
+      "size": 50305536
     },
     {
       "path": "patches/new_costumes.eix",
       "dest": "new_costumes.eix",
-      "sha256": "1c527ce88d48cfd15b40034c109359ac738a81a807367bb230c23d4d75242646",
-      "size": 129
+      "sha256": "658ba5ba6a63d109429bc0f8564d1b810b98310beda2ca27aa10f13b660826dd",
+      "size": 8004
     },
     {
       "path": "patches/new_costumes.epk",
       "dest": "new_costumes.epk",
-      "sha256": "0d286ec302835f0adfb7fbe1e3cc01b492f74a6de825f5a64b4c76b32f8386e7",
-      "size": 133
+      "sha256": "234e54d047b17b6a86bb10482cf4123f870bd084bad30f88dd502e4d9731936d",
+      "size": 23910144
     },
     {
       "path": "patches/patch_updates.eix",
       "dest": "patch_updates.eix",
-      "sha256": "f550367f3f062202568f9aaaad7ed2b54a24f1fb47f8facae050e0181f54ca8a",
-      "size": 130
+      "sha256": "804a0499ff3e04096dea235a9b1fda5a4b2aa085bfbbe1076e7eff9ab91e641b",
+      "size": 48020
     },
     {
       "path": "patches/patch_updates.epk",
       "dest": "patch_updates.epk",
-      "sha256": "c3b26bf50ee9eaa56e0eb350cbb820b7e67dfb109b39ad8b1b012967959726ce",
-      "size": 134
+      "sha256": "939385a432501adde5e82e6578d638155a4c722713b72714fa26221e9c8cf07f",
+      "size": 153806080
     },
     {
       "path": "patches/property.eix",
       "dest": "property.eix",
-      "sha256": "2831e6b2b8c3a8fbd2669f52bf975536d6ced5c374316dc7eead3d58bb80bfe6",
-      "size": 131
+      "sha256": "5b388ba384f7aeffa2768bbf31e36f276c67794a1b02a0a7da6e0058ae781181",
+      "size": 121924
     },
     {
       "path": "patches/property.epk",
       "dest": "property.epk",
-      "sha256": "c0a45e055b8ef4dc99d92803c9599e2f9933c9992d963e4a616d121ea2dd0e1f",
-      "size": 133
+      "sha256": "8da0de7efdcf142d1517186a872169e06410d1bb6795c4ac3b5afc9cebd652f9",
+      "size": 17911296
     },
     {
       "path": "patches/unused_stuff.eix",
       "dest": "unused_stuff.eix",
-      "sha256": "60e7ce0ef84cbe855b88cc458ec4ff866bf9ae11a7ef91538d17d0ced1b91c10",
-      "size": 130
+      "sha256": "001f917ef92e7b9fbbaea6a65eb5aa1da6f26aa9a5fe8dcbe6ee13ed7f4a8d8e",
+      "size": 32500
     },
     {
       "path": "patches/unused_stuff.epk",
       "dest": "unused_stuff.epk",
-      "sha256": "7aa17a7a78ce598595a4d2872ff790aecd284ed9bb7ef4666df5970ce0d07165",
-      "size": 133
+      "sha256": "396f82a8ca2eaa0a73f394d693a4239d2d0b3cef255a26b92b9ac6b5f42c19ed",
+      "size": 13555712
     },
     {
       "path": "patches/xkozed_stuff.eix",
       "dest": "xkozed_stuff.eix",
-      "sha256": "a16aac98d3d6fddd9635aa15c38f00cfda0910994fdc1aae5944532990e6aac9",
-      "size": 130
+      "sha256": "ffd1ceffc7f79640ce292e099a13761284ccd9ad1fb60d16bdb63e5e19565754",
+      "size": 24700
     },
     {
       "path": "patches/xkozed_stuff.epk",
       "dest": "xkozed_stuff.epk",
-      "sha256": "d08cc6291dec131d9fbef58ccc1f03e22bb1049fbcb86be4bc0e2f70a41f4238",
-      "size": 134
+      "sha256": "10cfe99b08c787bfe48576bd51857e2dbb64be15fbfc196f615b5da16806205e",
+      "size": 114183424
     }
   ]
 }
