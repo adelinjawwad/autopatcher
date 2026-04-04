@@ -1,0 +1,186 @@
+{
+  "version": "1.0.1",
+  "patches_dir": "patches",
+  "files": [
+    {
+      "path": "patches/characters_data.eix",
+      "dest": "characters_data.eix",
+      "sha256": "e31b6a2f28f8dd3bce3b9fede000e23c5716baa1d0410b206eca9461850f2ec1",
+      "size": 131
+    },
+    {
+      "path": "patches/characters_data.epk",
+      "dest": "characters_data.epk",
+      "sha256": "3270f1c45fd436dc8ba52e54971135e1032d8542bd116d425f495d9a69ce7bcb",
+      "size": 134
+    },
+    {
+      "path": "patches/dev_work.eix",
+      "dest": "dev_work.eix",
+      "sha256": "f711c5df886481691cb9dd3e9a888474d48863e1a98fd763d9ee57ef27ce2cbd",
+      "size": 129
+    },
+    {
+      "path": "patches/dev_work.epk",
+      "dest": "dev_work.epk",
+      "sha256": "cc77f1f2fe4a395434830f758f74648294a399d694da97e184f9f4891bb9fced",
+      "size": 132
+    },
+    {
+      "path": "patches/game_data.eix",
+      "dest": "game_data.eix",
+      "sha256": "6a632d052ab421011b5df4d0472c492232eb850ab7e299e723b253bb3189ef67",
+      "size": 131
+    },
+    {
+      "path": "patches/game_data.epk",
+      "dest": "game_data.epk",
+      "sha256": "f015f07830842914c9b30e5003117e7a885d85f6eb958b244a8d8d21ead363f2",
+      "size": 133
+    },
+    {
+      "path": "patches/items.eix",
+      "dest": "items.eix",
+      "sha256": "002e7738f8350d3cbb9b17bc9d2d58d816890b32f2f6990c2bda4b338e3095ad",
+      "size": 130
+    },
+    {
+      "path": "patches/items.epk",
+      "dest": "items.epk",
+      "sha256": "96006566b90a90a0f2959677cf168868d4a63ae96b9301bd77184341cba6dcaa",
+      "size": 133
+    },
+    {
+      "path": "patches/ley_updates.eix",
+      "dest": "ley_updates.eix",
+      "sha256": "f51880a37c72c2fbc16982038f3a7f0db2ef3d48071110f844f4cfbeb2ce4f40",
+      "size": 130
+    },
+    {
+      "path": "patches/ley_updates.epk",
+      "dest": "ley_updates.epk",
+      "sha256": "75a63f1675d195de55c7ecf132e969604deb48be6f5252c8c1776cd0ba63d6ab",
+      "size": 134
+    },
+    {
+      "path": "patches/locale.eix",
+      "dest": "locale.eix",
+      "sha256": "b9fdcfeae28fdb135977683a9ac2eb998d0c7559181ba29c34e3e436fb61329c",
+      "size": 130
+    },
+    {
+      "path": "patches/locale.epk",
+      "dest": "locale.epk",
+      "sha256": "81d339810d464f82169af782d657f263451918c89becbae9a59088a02cd328ee",
+      "size": 133
+    },
+    {
+      "path": "patches/locale_data.eix",
+      "dest": "locale_data.eix",
+      "sha256": "9f84f1beef50030a0b8a8a8e7178088bfcd91804be12e4837e01340b7797dc05",
+      "size": 130
+    },
+    {
+      "path": "patches/locale_data.epk",
+      "dest": "locale_data.epk",
+      "sha256": "997fd1cff2f6c45c782a55d2f7d65bf8c2ec03617c84e97eba763f34dfaab5b3",
+      "size": 133
+    },
+    {
+      "path": "patches/maps.eix",
+      "dest": "maps.eix",
+      "sha256": "80397d04e1dd5ad687c379acbfe4b37c7b57e36c0382f7c1d4e775ff9558681d",
+      "size": 131
+    },
+    {
+      "path": "patches/maps.epk",
+      "dest": "maps.epk",
+      "sha256": "bdf3026b14fedf00b1344337cd40e730f9feb09e70cbda86b23cbe448ce36a33",
+      "size": 133
+    },
+    {
+      "path": "patches/maps_data.eix",
+      "dest": "maps_data.eix",
+      "sha256": "94df3b05384513e4fd6f91b5102ebecb65a4abcf630f199f0ed01f6e67bd9c6d",
+      "size": 131
+    },
+    {
+      "path": "patches/maps_data.epk",
+      "dest": "maps_data.epk",
+      "sha256": "0c82f6eda4072265252e302d74779e8f6d76e97d5225108eaadd49e0b66e94b0",
+      "size": 134
+    },
+    {
+      "path": "patches/mobs.eix",
+      "dest": "mobs.eix",
+      "sha256": "ef840b9a642573ac1bcfe6a21be14df9d9e0c36e0570d6507525959f4d3de4ff",
+      "size": 130
+    },
+    {
+      "path": "patches/mobs.epk",
+      "dest": "mobs.epk",
+      "sha256": "347427f7063e8edeb8ae1210143257976de275b8cd6fbf91352291b7a694ad69",
+      "size": 133
+    },
+    {
+      "path": "patches/new_costumes.eix",
+      "dest": "new_costumes.eix",
+      "sha256": "1c527ce88d48cfd15b40034c109359ac738a81a807367bb230c23d4d75242646",
+      "size": 129
+    },
+    {
+      "path": "patches/new_costumes.epk",
+      "dest": "new_costumes.epk",
+      "sha256": "0d286ec302835f0adfb7fbe1e3cc01b492f74a6de825f5a64b4c76b32f8386e7",
+      "size": 133
+    },
+    {
+      "path": "patches/patch_updates.eix",
+      "dest": "patch_updates.eix",
+      "sha256": "f550367f3f062202568f9aaaad7ed2b54a24f1fb47f8facae050e0181f54ca8a",
+      "size": 130
+    },
+    {
+      "path": "patches/patch_updates.epk",
+      "dest": "patch_updates.epk",
+      "sha256": "c3b26bf50ee9eaa56e0eb350cbb820b7e67dfb109b39ad8b1b012967959726ce",
+      "size": 134
+    },
+    {
+      "path": "patches/property.eix",
+      "dest": "property.eix",
+      "sha256": "2831e6b2b8c3a8fbd2669f52bf975536d6ced5c374316dc7eead3d58bb80bfe6",
+      "size": 131
+    },
+    {
+      "path": "patches/property.epk",
+      "dest": "property.epk",
+      "sha256": "c0a45e055b8ef4dc99d92803c9599e2f9933c9992d963e4a616d121ea2dd0e1f",
+      "size": 133
+    },
+    {
+      "path": "patches/unused_stuff.eix",
+      "dest": "unused_stuff.eix",
+      "sha256": "60e7ce0ef84cbe855b88cc458ec4ff866bf9ae11a7ef91538d17d0ced1b91c10",
+      "size": 130
+    },
+    {
+      "path": "patches/unused_stuff.epk",
+      "dest": "unused_stuff.epk",
+      "sha256": "7aa17a7a78ce598595a4d2872ff790aecd284ed9bb7ef4666df5970ce0d07165",
+      "size": 133
+    },
+    {
+      "path": "patches/xkozed_stuff.eix",
+      "dest": "xkozed_stuff.eix",
+      "sha256": "a16aac98d3d6fddd9635aa15c38f00cfda0910994fdc1aae5944532990e6aac9",
+      "size": 130
+    },
+    {
+      "path": "patches/xkozed_stuff.epk",
+      "dest": "xkozed_stuff.epk",
+      "sha256": "d08cc6291dec131d9fbef58ccc1f03e22bb1049fbcb86be4bc0e2f70a41f4238",
+      "size": 134
+    }
+  ]
+}
