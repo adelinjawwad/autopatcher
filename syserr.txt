@@ -1,0 +1,42 @@
+0404 21:35:01388 :: CEffectManager::RegisterEffect - LoadScript(d:/ymir work/effect/etc/emoticon/haha.mse) Error
+0404 21:35:01388 :: CInstanceBase::RegisterEffect(eEftType=146, c_szEftAttachBone=, c_szEftName=d:/ymir work/effect/etc/emoticon/haha.mse, isCache=1) - Error
+0404 21:36:35337 :: icon/item/43022.tga not found. CItemData::__SetIconImage
+0404 21:36:35342 :: icon/item/43047.tga not found. CItemData::__SetIconImage
+0404 21:36:35342 :: icon/item/43048.tga not found. CItemData::__SetIconImage
+0404 21:36:35343 :: icon/item/43049.tga not found. CItemData::__SetIconImage
+0404 21:36:35343 :: icon/item/43050.tga not found. CItemData::__SetIconImage
+0404 21:36:35343 :: icon/item/43051.tga not found. CItemData::__SetIconImage
+0404 21:36:35343 :: icon/item/43052.tga not found. CItemData::__SetIconImage
+0404 21:36:35343 :: icon/item/43053.tga not found. CItemData::__SetIconImage
+0404 21:36:35343 :: icon/item/43054.tga not found. CItemData::__SetIconImage
+0404 21:36:35344 :: icon/item/43055.tga not found. CItemData::__SetIconImage
+0404 21:36:35344 :: icon/item/43056.tga not found. CItemData::__SetIconImage
+0404 21:36:35543 :: icon/item/27995.tga not found. CItemData::__SetIconImage
+0404 21:37:33287 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/monster/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:33287 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/monster2/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:33287 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/npc/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:33287 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/npc2/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:33287 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/guild/metinstone_01/metinstone_01.msm] ERROR
+0404 21:37:33287 :: CRaceManager::GetRaceDataPointer: cannot load data by dwRaceIndex 8001
+0404 21:37:33287 :: CPythonCharacterManager::CreateInstance VID[225] Race[8001]
+0404 21:37:34196 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/monster/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:34196 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/monster2/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:34196 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/npc/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:34196 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/npc2/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:34196 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/guild/metinstone_01/metinstone_01.msm] ERROR
+0404 21:37:34196 :: CRaceManager::GetRaceDataPointer: cannot load data by dwRaceIndex 8001
+0404 21:37:34196 :: CPythonCharacterManager::CreateInstance VID[225] Race[8001]
+0404 21:37:34954 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/monster/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:34954 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/monster2/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:34954 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/npc/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:34954 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/npc2/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:34954 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/guild/metinstone_01/metinstone_01.msm] ERROR
+0404 21:37:34954 :: CRaceManager::GetRaceDataPointer: cannot load data by dwRaceIndex 8001
+0404 21:37:34954 :: CPythonCharacterManager::CreateInstance VID[225] Race[8001]
+0404 21:37:35399 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/monster/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:35399 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/monster2/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:35399 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/npc/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:35399 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/npc2/metinstone_01/metinstone_01.msm] ERROR. Will Find Another Path.
+0404 21:37:35399 :: CRaceManager::RegisterRacePath : RACE[8001] LOAD MSMFILE[d:/ymir work/guild/metinstone_01/metinstone_01.msm] ERROR
+0404 21:37:35399 :: CRaceManager::GetRaceDataPointer: cannot load data by dwRaceIndex 8001
+0404 21:37:35399 :: CPythonCharacterManager::CreateInstance VID[225] Race[8001]

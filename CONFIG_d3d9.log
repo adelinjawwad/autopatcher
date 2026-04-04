@@ -1,0 +1,39 @@
+info:  Game: CONFIG.exe
+info:  DXVK: v2.3
+info:  Vulkan: Found vkGetInstanceProcAddr in vulkan-1.dll @ 0x6df51760
+info:  Built-in extension providers:
+info:    Win32 WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+info:  D3D9: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+info:  AMD Radeon RX 7700 XT:
+info:    Driver : AMD proprietary driver 2.0.353
+info:    Memory Heap[0]: 
+info:      Size: 15924 MiB
+info:      Flags: 0x0
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:      Memory Type[5]: Property Flags = 0xc6
+info:      Memory Type[7]: Property Flags = 0xce
+info:      Memory Type[9]: Property Flags = 0x6
+info:      Memory Type[11]: Property Flags = 0xe
+info:      Memory Type[13]: Property Flags = 0xc6
+info:      Memory Type[15]: Property Flags = 0xce
+info:    Memory Heap[1]: 
+info:      Size: 12272 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[2]: Property Flags = 0x7
+info:      Memory Type[4]: Property Flags = 0xc1
+info:      Memory Type[6]: Property Flags = 0xc7
+info:      Memory Type[8]: Property Flags = 0x1
+info:      Memory Type[10]: Property Flags = 0x7
+info:      Memory Type[12]: Property Flags = 0xc1
+info:      Memory Type[14]: Property Flags = 0xc7
+info:  Process set as DPI aware
