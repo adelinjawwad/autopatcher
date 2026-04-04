@@ -1,2 +1,2 @@
-*.eix filter=lfs diff=lfs merge=lfs -text
 *.epk filter=lfs diff=lfs merge=lfs -text
+*.eix filter=lfs diff=lfs merge=lfs -text
