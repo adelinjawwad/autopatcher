@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "patches_dir": "patches",
   "files": [
     {
@@ -77,14 +77,14 @@
     {
       "path": "patches/locale_data.eix",
       "dest": "locale_data.eix",
-      "sha256": "edd4aae8e7e2b9025059d3ab731e2be348ee779cc0b092a18ad3d861dbfef5cb",
-      "size": 60356
+      "sha256": "7442f664205c392438027486f907f010d371258826a7ceb543d23451590ccdb1",
+      "size": 59492
     },
     {
       "path": "patches/locale_data.epk",
       "dest": "locale_data.epk",
-      "sha256": "c6dc5e8de1360a3bd3fbf8d0efc956ff50b33b2c992979ae4b31ab2d84658e43",
-      "size": 35473152
+      "sha256": "935f0f2264f17c42a4e99a25d0b661abf4d0e727e5da45c88cdcf51c0ed58efb",
+      "size": 35456512
     },
     {
       "path": "patches/maps.eix",
@@ -113,14 +113,14 @@
     {
       "path": "patches/mobs.eix",
       "dest": "mobs.eix",
-      "sha256": "98809fb217f18d6a34b5466a59dfdee27cd00cfce2eefcb0d4dfc305a0e7f383",
-      "size": 48620
+      "sha256": "3cc6913fd9f9254ac804aaa2bbc960c19c8ed2fb3252f283ea456368b2be3d0e",
+      "size": 52876
     },
     {
       "path": "patches/mobs.epk",
       "dest": "mobs.epk",
-      "sha256": "75c0c5ca5da26e39f98d181cd110d13e076a93d924394d3aab24cf231caddfd9",
-      "size": 50305536
+      "sha256": "08f97bff6e44cd11842e5a43c087a0dccfe93bd20b2de73dcff1eb786eedc0c2",
+      "size": 62898944
     },
     {
       "path": "patches/new_costumes.eix",
@@ -173,14 +173,14 @@
     {
       "path": "patches/xkozed_stuff.eix",
       "dest": "xkozed_stuff.eix",
-      "sha256": "ffd1ceffc7f79640ce292e099a13761284ccd9ad1fb60d16bdb63e5e19565754",
-      "size": 24700
+      "sha256": "c27c45bba716f7a10304363c309172ea1d3e898f4c13b77aadaaa3e506aa9cd4",
+      "size": 24564
     },
     {
       "path": "patches/xkozed_stuff.epk",
       "dest": "xkozed_stuff.epk",
-      "sha256": "10cfe99b08c787bfe48576bd51857e2dbb64be15fbfc196f615b5da16806205e",
-      "size": 114183424
+      "sha256": "bbee3aa6d085bc0d613f934c6aefb72c8c549890ae90dbbd01a1f80d481d7891",
+      "size": 114235904
     }
   ]
 }
