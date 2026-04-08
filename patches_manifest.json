@@ -1,18 +1,18 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "patches_dir": "patches",
   "files": [
     {
       "path": "patches/characters_data.eix",
       "dest": "characters_data.eix",
-      "sha256": "7832f184881f2274debecbd43b2360aa7b141740640fe6eb2a3256d9fe18d8c1",
-      "size": 188084
+      "sha256": "9f842a8bf91feb9b19e239949db7cffe4dcefdc40cde36a6a3ffdd5626fa02a5",
+      "size": 183740
     },
     {
       "path": "patches/characters_data.epk",
       "dest": "characters_data.epk",
-      "sha256": "89e870f4374cf0b6914bce1b4ce09371f2967ec8f54794093a3f366f6956ccf7",
-      "size": 138628352
+      "sha256": "ef23780ca9a10bf318e5426b0760859d012cd105b59da35e8088b8037f157b70",
+      "size": 147288576
     },
     {
       "path": "patches/dev_work.eix",
@@ -77,14 +77,14 @@
     {
       "path": "patches/locale_data.eix",
       "dest": "locale_data.eix",
-      "sha256": "7442f664205c392438027486f907f010d371258826a7ceb543d23451590ccdb1",
-      "size": 59492
+      "sha256": "84ef48dd124a561b2a5f7fe9c4e5dd93bcced69ec14acf93b979d373a9c7d8ed",
+      "size": 59092
     },
     {
       "path": "patches/locale_data.epk",
       "dest": "locale_data.epk",
-      "sha256": "935f0f2264f17c42a4e99a25d0b661abf4d0e727e5da45c88cdcf51c0ed58efb",
-      "size": 35456512
+      "sha256": "e5ad5d28f3c55327c256f2ac0e3becb5ab4fb1afd8e998848bfaacccbed4e5e8",
+      "size": 35462912
     },
     {
       "path": "patches/maps.eix",
@@ -173,14 +173,14 @@
     {
       "path": "patches/xkozed_stuff.eix",
       "dest": "xkozed_stuff.eix",
-      "sha256": "c27c45bba716f7a10304363c309172ea1d3e898f4c13b77aadaaa3e506aa9cd4",
-      "size": 24564
+      "sha256": "57361486745076ee307c7d70be04681c0caa564234fa0eeb8ad7eeb0214e3982",
+      "size": 32868
     },
     {
       "path": "patches/xkozed_stuff.epk",
       "dest": "xkozed_stuff.epk",
-      "sha256": "bbee3aa6d085bc0d613f934c6aefb72c8c549890ae90dbbd01a1f80d481d7891",
-      "size": 114235904
+      "sha256": "af431f7bfb84007b322b2c38904a0e148d975a4ea729988795c71c02d48174a3",
+      "size": 142954240
     }
   ]
 }
